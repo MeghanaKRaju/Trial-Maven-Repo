@@ -2,7 +2,9 @@ package com.Trial3.pack3;
 
 import org.testng.annotations.Test;
 
-public class Trial3test 
+import com.GenericUtils.BaseClass_Trial;
+
+public class Trial3test extends BaseClass_Trial
 {
 	@Test
 	public void trial3Test()
