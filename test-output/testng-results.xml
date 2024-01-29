@@ -1,38 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-29T13:54:52 IST" name="Suite" finished-at="2024-01-29T13:54:52 IST" duration-ms="80">
+  <suite started-at="2024-01-29T18:05:24 IST" name="Default suite" finished-at="2024-01-29T18:05:24 IST" duration-ms="102">
     <groups>
-      <group name="smoke">
-        <method signature="GitpractTest.mvnTest1()[pri:0, instance:com.trial2mvn.Pack2.GitpractTest@6025e1b6]" name="mvnTest1" class="com.trial2mvn.Pack2.GitpractTest"/>
-      </group> <!-- smoke -->
     </groups>
-    <test started-at="2024-01-29T13:54:52 IST" name="Test" finished-at="2024-01-29T13:54:52 IST" duration-ms="80">
-      <class name="com.trial2mvn.Pack2.GitpractTest">
-        <test-method is-config="true" signature="config_BC()[pri:0, instance:com.trial2mvn.Pack2.GitpractTest@6025e1b6]" started-at="2024-01-29T13:54:52 IST" name="config_BC" finished-at="2024-01-29T13:54:52 IST" duration-ms="1" status="PASS">
+    <test started-at="2024-01-29T18:05:24 IST" name="Default test" finished-at="2024-01-29T18:05:24 IST" duration-ms="102">
+      <class name="com.TrialMaven.Pack1.Demo2test">
+        <test-method signature="sampleTest()[pri:0, instance:com.TrialMaven.Pack1.Demo2test@459e9125]" started-at="2024-01-29T18:05:24 IST" name="sampleTest" finished-at="2024-01-29T18:05:24 IST" duration-ms="13" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- config_BC -->
-        <test-method signature="mvnTest1()[pri:0, instance:com.trial2mvn.Pack2.GitpractTest@6025e1b6]" started-at="2024-01-29T13:54:52 IST" name="mvnTest1" finished-at="2024-01-29T13:54:52 IST" duration-ms="9" status="PASS">
+        </test-method> <!-- sampleTest -->
+        <test-method signature="simpleTest()[pri:0, instance:com.TrialMaven.Pack1.Demo2test@459e9125]" started-at="2024-01-29T18:05:24 IST" name="simpleTest" finished-at="2024-01-29T18:05:24 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- mvnTest1 -->
-        <test-method is-config="true" signature="config_AC()[pri:0, instance:com.trial2mvn.Pack2.GitpractTest@6025e1b6]" started-at="2024-01-29T13:54:52 IST" name="config_AC" finished-at="2024-01-29T13:54:52 IST" duration-ms="4" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- config_AC -->
-      </class> <!-- com.trial2mvn.Pack2.GitpractTest -->
-      <class name="com.Trial3.pack3.Trial3test">
-        <test-method is-config="true" signature="config_BS()[pri:0, instance:com.Trial3.pack3.Trial3test@22555ebf]" started-at="2024-01-29T13:54:52 IST" name="config_BS" finished-at="2024-01-29T13:54:52 IST" duration-ms="20" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- config_BS -->
-        <test-method is-config="true" signature="config_AS()[pri:0, instance:com.Trial3.pack3.Trial3test@22555ebf]" started-at="2024-01-29T13:54:52 IST" name="config_AS" finished-at="2024-01-29T13:54:52 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- config_AS -->
-      </class> <!-- com.Trial3.pack3.Trial3test -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+        </test-method> <!-- simpleTest -->
+      </class> <!-- com.TrialMaven.Pack1.Demo2test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
