@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 import com.GenericUtils.BaseClass_Trial;
 
-public class GitpractTest extends BaseClass_Trial
+public class Gitpracttest extends BaseClass_Trial
 {
 	@Test (groups="smoke")
 	public void mvnTest1()
