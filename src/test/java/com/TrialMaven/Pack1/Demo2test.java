@@ -8,6 +8,10 @@ public class Demo2test {
 	public void sampleTest()
 	{
 		System.out.println("Hello");
+		String BROWSER = System.getProperty("browser");
+		String ENV = System.getProperty("Env");
+		System.out.println(BROWSER);
+		System.out.println(ENV);
 	}
 	
 	@Test
