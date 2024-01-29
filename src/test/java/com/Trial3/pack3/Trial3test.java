@@ -10,6 +10,7 @@ public class Trial3test extends BaseClass_Trial
 	public void trial3Test()
 	{
 		System.out.println("trial 3 running");
+		System.out.println("poll");
 		
 	}
 
