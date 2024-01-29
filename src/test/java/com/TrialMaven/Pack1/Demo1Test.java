@@ -15,5 +15,8 @@ public class Demo1Test {
 	public void demo2Test()
 	{
 		System.out.println("Bye");
+		System.out.println("Poll SCM");
 	}
+	
+	
 }
