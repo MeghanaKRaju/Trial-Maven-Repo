@@ -8,6 +8,7 @@ public class Trial3test
 	public void trial3Test()
 	{
 		System.out.println("trial 3 running");
+		System.out.println("Poll scm3");
 	}
 
 }
