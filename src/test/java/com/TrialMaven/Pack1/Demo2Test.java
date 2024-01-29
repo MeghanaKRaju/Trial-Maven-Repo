@@ -14,5 +14,6 @@ public class Demo2Test {
 	public void simpleTest()
 	{
 		System.out.println("World");
+		System.out.println("TYSS");
 	}
 }
