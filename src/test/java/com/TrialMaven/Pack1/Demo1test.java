@@ -2,7 +2,7 @@ package com.TrialMaven.Pack1;
 
 import org.testng.annotations.Test;
 
-public class Demo1Test {
+public class Demo1test {
 	@Test
 
 	public void demoTest()
